@@ -1,0 +1,1 @@
+Notes to remember from command line power user course from Wes Bos
